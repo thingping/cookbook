@@ -1,7 +1,9 @@
 # The ThingPing cookbook
 Recipes for integrating with ThingPing
 
-Simple hourly ping from your linux computer (requires `cron` and either `curl` or `wget`)
+
+
+* Linux/MacOS: [Using cron to notify that a host is alive & running](Linux_and_MacOS/host-alive)
 
 
 
